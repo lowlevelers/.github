@@ -4,7 +4,7 @@
 TheLowLevelers is a vibrant non-profit community centered around Polkadot in Southeast Asia (SEA). Our primary aim is to cater to developers seeking a comprehensive understanding of the Polkadot blockchain, providing curated, in-depth materials with a low-level approach.
 
 - **About us:** [Learn more about us](https://lowlevelers.com/about)
-- **Website:** [TheLowLevelers](https://lowlevelers.com/polkadot)
+- **Website:** [TheLowLevelers](https://lowlevelers.com/)
 - **Github:** [TheLowLevelers on Github](https://github.com/lowlevelers)
 - **Discord**:  [TheLowLevelers Discord Channel](https://discord.gg/bcjMzxqtD7)
 
