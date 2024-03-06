@@ -1,4 +1,4 @@
-![Group 181](https://github.com/openguild-labs/.github/assets/56880684/fecd1ad4-48dc-4816-92f9-929d47c36336)
+![OG_A](https://github.com/openguild-labs/.github/assets/56880684/d3b067a6-f355-4ce0-9e96-b2900cb03cd6)
 
 # About OpenGuild
 OpenGuild is a builder-driven community centered around Polkadot. OpenGuild is built by Web3 builders for Web3 builders. Our primary aim is to cater to developers seeking a comprehensive understanding of the Polkadot blockchain, providing curated, in-depth materials with a low-level approach.
