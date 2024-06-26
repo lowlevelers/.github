@@ -8,26 +8,6 @@ OpenGuild is a builder-driven community centered around Polkadot. OpenGuild is b
 - **Github:** [OpenGuild Labs](https://github.com/openguild-labs)
 - **Discord**:  [Openguild Discord Channel](https://discord.gg/bcjMzxqtD7)
 
-## ☘️ Your benefits
-OpenGuild is the first step for you to engage with the Polkadot community practically. We connect with industry experts to help you polish your skills and knowledge to develop on Polkadot and prepare you to be ready for the upcoming [Polkadot Blockchain Academy](https://polkadot.network/development/blockchain-academy/) - where you can start your career in Web3 with Polkadot.
-
-# 🔥 Our Mission
-## 💻 Empowering Developers, Fostering Innovation
-
-At OpenGuild, we cultivate an environment that nurtures the growth of developers interested in the Polkadot ecosystem. Our initiatives revolve around two core pillars:
-
-### 🎉 Events and Engagement
-- **Weekly Meetups:** Engage in lively discussions and share the latest technological advancements within the Polkadot ecosystem. These gatherings also serve as a launchpad for hackathons, empowering developers to "build to earn" in collaboration with our community.
-
-- **Mentorship:** As a member of OpenGuild, benefit from mentorship by seasoned engineers. Our mentorship program aims to equip you with the skills and knowledge essential for a successful career in engineering within the Polkadot projects landscape.
-
-- **Workshops & Hackathons:** Engage in hands-on workshops and hackathons designed to foster innovation and practical skill-building.
-
-### 📚 Research & Development
-- **Exploration and Contribution:** Dive deep into intriguing Polkadot blockchain topics and contribute to the open-source community. Alongside our vibrant events, OpenGuild's core team focuses on crafting and sharing developer tools, contributing actively to advancing Polkadot's development ecosystem.
-
-Join us at TheLowLevelers and become a part of a dynamic community dedicated to empowering developers and driving innovation within the Polkadot ecosystem.
-
 # 🙌 How to contribute to the community?
 To submit a proposal, ideas, or any questions, please submit them here: [OpenGuild Discussion 💬](https://github.com/orgs/openguild-labs/discussions)
 View tickets and activities that you can contribute: [Community Activities 🖐️](https://github.com/orgs/openguild-labs/discussions/categories/activities)
